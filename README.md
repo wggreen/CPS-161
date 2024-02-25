@@ -1,4 +1,4 @@
-# CPS 161
+# CPS 161 - An Introduction to Programming with Java
 
 This is a selection of the homework problems for the Washtenaw Community College class [CPS 161 - An Introduction to Programming with Java](https://catalog.wccnet.edu/current/courses/cps-161.php) which I took in Summer 2023.
 
